@@ -1,4 +1,4 @@
-const apiKey = '5b3ce3597851110001cf624826bcefa17de54eb38058250966953e80'; // 🔑 Replace with your OpenRouteService API key
+const apiKey = 'abc'; // 🔑 Replace with your OpenRouteService API key
 
 
 const map = L.map('map').setView([20.5937, 78.9629], 5);
